@@ -1,0 +1,1 @@
+module.exports = { APP_ID: "a8f264e5", API_KEY: "59e50ae89ba4d48c2c3dcdd1d59a995e", };
